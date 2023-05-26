@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Staatliches&size=21&duration=3000&pause=1&color=F7F7F7&center=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&vCenter=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&repeat=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&width=435&lines=Hi+👋🏻+%2C;Welcome+to+my+account+!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=21&duration=3000&pause=1&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%2C;Welcome+to+my+account+!+)](https://git.io/typing-svg)
